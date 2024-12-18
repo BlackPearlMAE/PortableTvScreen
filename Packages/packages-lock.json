@@ -5,7 +5,7 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
-        "vcc.vrcfury.com": ""
+        "vcc.vrcfury.com": "1.1138.0"
       }
     },
     "com.unity.ai.navigation": {
