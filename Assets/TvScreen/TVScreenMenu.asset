@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: TVScreenMenu
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 991c04e1af9513a418314fcd3aac71b9, type: 2}
+  controls:
+  - name: 'Turn On '
+    icon: {fileID: 2800000, guid: d1715cc96041bbc48b30402934f0feec, type: 3}
+    type: 102
+    parameter:
+      name: TvScreen/Toggle
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Turn On (Local)
+    icon: {fileID: 2800000, guid: f1768cd43395d00458927783b44a8a5c, type: 3}
+    type: 102
+    parameter:
+      name: TvScreen/ToggleLocal
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Drop in World
+    icon: {fileID: 2800000, guid: eb7b55ace3dd95b41876ca2e4d7b8e9a, type: 3}
+    type: 102
+    parameter:
+      name: TvScreen/DropTV
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Scale
+    icon: {fileID: 2800000, guid: c80e16f0117ea214d92b11abbb91ab44, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: TvScreen/Scale
+    labels: []
+  - name: Distance
+    icon: {fileID: 2800000, guid: c9b7f0da12e0660428ed53806df0e101, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: TvScreen/Distance
+    labels: []
+  - name: Overlay mode
+    icon: {fileID: 2800000, guid: 0ddc2365c8d59ef42820b6e4b5606a68, type: 3}
+    type: 102
+    parameter:
+      name: TvScreen/Overlay
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
+  - name: Lock To Head
+    icon: {fileID: 2800000, guid: efe8a35a9a74d6b468cd775cd25326b2, type: 3}
+    type: 102
+    parameter:
+      name: TvScreen/LockToHead
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: 
+    labels: []
