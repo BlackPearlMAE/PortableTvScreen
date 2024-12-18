@@ -1,0 +1,22 @@
+{
+  "name": "com.blackpearlmae.portabletvscreen",
+  "displayName": "Portable TvScreen",
+  "version": "0.0.4",
+  "description": "A lightweight VRChat asset that displays video player content directly in front of you or in-world, with options to toggle local/global visibility, adjust scale and distance, and enable overlay mode. Designed for Popcorn Palace and Illumination Media Player, it works on any map supporting Global Render Texture. Requires VRCFury and Poiyomi Toon Shader (9.1.7+).",
+  "dependencies": {
+    "vcc.vrcfury.com": ""
+  },
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.7.5"
+  },
+  "author": {
+    "name": "BlackPearlMAE",
+    "email": "maetai@frreenet.de",
+    "url": "https://github.com/BlackPearlMAE/PortableTvScreen"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "K:\\VRCHAT\\Assets\\TvScreen\\gitproject\\PortableTvScreen\\Packages\\com.blackpearlmae.portabletvscreen",
+  "unity": "2022.3"
+}
