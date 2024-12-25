@@ -1,4 +1,4 @@
-# Portable TV Screen 1.4 (Easy Installation)
+# This is not Ready yet go to Gumroad
 This portable screen allows you to watch whatever is playing on the video player directly in front of you, eliminating the need to hold a tablet or look at your camera's interface. You can also drop the screen in the world, choose between a local and a remote toggle, change the scale and distance, and overlay it over players and the world. If there are multiple portable screens and the local player is active, it will disable all remote instances if it gets too close, but only for you.
 
 This asset was mainly created for **Popcorn Palace** and **Illumination Media Player**, but it works in other maps too that support the Global Render Texture.
